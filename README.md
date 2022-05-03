@@ -1,3 +1,5 @@
+Hi I am Amos Mak, I'm a Tech Recruiter and I'd like to broaden my professional network with Software Engineers, Developers and Cyber Security Specialists!
+
 - 👋 Hi, I’m @Amosmak
 - 👀 I’m interested in discovering the latest Software Engineering and Developer trends, tools and ideas.
 - 🌱 I’m currently still deciding what to learn because I am not a Software Engineer by training. 
